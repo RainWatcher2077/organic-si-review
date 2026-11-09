@@ -1,0 +1,4 @@
+interface:
+  display_name: "有机化学 SI 审阅"
+  short_description: "投稿前分工审阅有机化学支持信息、谱图与正文配图，并追踪各轮问题"
+  default_prompt: "用 $organic-si-review 全面审阅当前版 SI 和配图，列出子智能体分工、证据与覆盖情况，并另存批注副本。"
